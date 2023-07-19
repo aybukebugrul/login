@@ -1,0 +1,44 @@
+
+body {
+    background-image: url("blur.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.login {
+   font-weight: bold;
+   font-family: cursive;
+   color: rgb(93, 90, 90)
+     
+}
+
+.girisbox
+{
+
+    width: 20%;
+    height: 200px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.robot{
+   
+    height: 25px;
+    position: fixed;
+    top: 72%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.hata{
+
+    
+    height: 25px;
+    position: fixed;
+    top: 79%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
